@@ -5,9 +5,7 @@ I’m still in the learning phase, exploring different areas of tech and slowly 
 
 #### Tech Stack
 Right now, I’m working with: Linux, MySQL, C, HTML and CSS.  
-
 What I’m planning to learn next: Java, PHP and Python.  
-
 My favorite tool: VS Code  
 
 #### Projects
@@ -16,9 +14,7 @@ No idea how many I’ll create — hopefully a lot!
 
 #### Fun Facts  
 I enjoy Muay Thai  
-
 I love gaming  
-
 I listen to music basically all the time
 <!--
 **fredericofortes-git/fredericofortes-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
